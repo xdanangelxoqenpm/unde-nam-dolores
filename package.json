@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@xdanangelxoqenpm/unde-nam-dolores",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/xdanangelxoqenpm/unde-nam-dolores.git"
   },
   "dependencies": {
+    "@crabas0npm/quos-officiis-at-eveniet": "^1.0.0",
+    "@ffras4vnpm/officiis-dolorem-iure-ullam": "^1.0.0",
+    "@xdanangelxoqenpm/ex-vitae-eum": "^1.0.0",
+    "@xdanangelxoqenpm/iusto-beatae-error": "^1.0.0",
+    "@xdanangelxoqenpm/perspiciatis-molestias-alias": "^1.0.0",
+    "@xdanangelxoqenpm/sunt-neque-ut": "^1.0.0"
   }
 }
